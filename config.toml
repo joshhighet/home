@@ -1,0 +1,32 @@
+theme = "hugo-theme-shell"
+baseURL = 'http://joshhighet.com'
+languageCode = 'en-us'
+title = '👀  guest@josh:~$'
+ignoreErrors = ["error-remote-getjson"]
+
+[Params]
+  description = "visitor@web"
+  [Params.Terminal]
+  schema = "gruvbox_light"
+  userName = "web"
+  pcName = "josh"
+  workDir = ".home"
+  profile = "bebop"
+  terminalDelay = 20
+  activityDelay = 5
+  description = "/description.md"
+  [Params.Tree]
+  use = true
+  folderName = "me"
+  files = [ 
+    ["github", "https://github.com/joshhighet"],
+    ["whoami", "https://whoami.joshhighet.com"],
+    ["twitter", "https://twitter.com/joshhighet"],
+    ["grafana", "https://dotcodotnz.grafana.net"],
+    ["statuspage", "https://s.dotco.nz"]
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.85.0"
