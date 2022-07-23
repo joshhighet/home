@@ -22,7 +22,6 @@ ignoreErrors = ["error-remote-getjson"]
     ["github", "https://github.com/joshhighet"],
     ["whoami", "https://whoami.joshhighet.com"],
     ["twitter", "https://twitter.com/joshhighet"],
-    ["grafana", "https://dotcodotnz.grafana.net"],
     ["statuspage", "https://s.dotco.nz"]
   ]
 
