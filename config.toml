@@ -1,13 +1,13 @@
 theme = "hugo-theme-shell"
 baseURL = 'http://joshhighet.com'
 languageCode = 'en-us'
-title = '👀  guest@josh:~$'
+title = 'josh 🪿'
 ignoreErrors = ["error-remote-getjson"]
 
 [Params]
-  description = "visitor@web"
+  description = "you have found me on the information superhighway"
   [Params.Terminal]
-  schema = "gruvbox_light"
+  scheme = "Molokai"
   userName = "web"
   pcName = "josh"
   workDir = ".home"
