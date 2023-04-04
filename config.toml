@@ -11,18 +11,19 @@ ignoreErrors = ["error-remote-getjson"]
   userName = "web"
   pcName = "josh"
   workDir = ".home"
-  profile = "bebop"
-  terminalDelay = 20
-  activityDelay = 5
+  profile = ".profile"
   description = "/description.md"
+  ps1Delay = 0
+  stdoutDelay = 0
+  commandDelay = 50
+  titleDelay = 0
   [Params.Tree]
   use = true
-  folderName = "me"
+  folderName = "projects"
   files = [ 
-    ["github", "https://github.com/joshhighet"],
-    ["whoami", "https://whoami.joshhighet.com"],
-    ["twitter", "https://twitter.com/joshhighet"],
-    ["statuspage", "https://s.dotco.nz"]
+    ["statuspage", "https://cyber.betteruptime.com"],
+    ["ransomwatch", "https://ransomwatch.telemetry.ltd"],
+    ["securitytools", "https://tools.watchdawg.io"]
   ]
 
 [module]
