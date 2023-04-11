@@ -23,7 +23,8 @@ ignoreErrors = ["error-remote-getjson"]
   files = [ 
     ["statuspage", "https://cyber.betteruptime.com"],
     ["ransomwatch", "https://ransomwatch.telemetry.ltd"],
-    ["securitytools", "https://tools.watchdawg.io"]
+    ["securitytools", "https://tools.watchdawg.io"],
+    ["transl8", "https://transl8.watchdawg.io"]
   ]
 
 [module]
