@@ -15,16 +15,19 @@ ignoreErrors = ["error-remote-getjson"]
   description = "/description.md"
   ps1Delay = 0
   stdoutDelay = 0
-  commandDelay = 50
+  commandDelay = 30
   titleDelay = 0
   [Params.Tree]
   use = true
   folderName = "projects"
   files = [ 
-    ["statuspage", "https://cyber.betteruptime.com"],
+    ["bebop", "https://github.com/joshhighet/bebop"],
+    ["transl8", "https://transl8.watchdawg.io"],
+    ["kerchow", "https://github.com/joshhighet/kerchow"],
+    ["multisocks", "https://github.com/joshhighet/multisocks"],
+    ["statuspage", "https://s.dotco.nz"],
     ["ransomwatch", "https://ransomwatch.telemetry.ltd"],
-    ["securitytools", "https://tools.watchdawg.io"],
-    ["transl8", "https://transl8.watchdawg.io"]
+    ["securitytools", "https://tools.watchdawg.io"]    
   ]
 
 [module]
