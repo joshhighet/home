@@ -22,6 +22,7 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "projects"
   files = [ 
     ["bebop", "https://github.com/joshhighet/bebop"],
+    ["urlgen", "https://urlgen.watchdawg.io"],
     ["transl8", "https://transl8.watchdawg.io"],
     ["kerchow", "https://github.com/joshhighet/kerchow"],
     ["multisocks", "https://github.com/joshhighet/multisocks"],
