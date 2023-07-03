@@ -5,9 +5,9 @@ title = 'josh 🪿'
 ignoreErrors = ["error-remote-getjson"]
 
 [Params]
-  description = "you have found me on the information superhighway"
+  description = "you've found me on the internet..."
   [Params.Terminal]
-  scheme = "Molokai"
+  scheme = "Gruvbox"
   userName = "web"
   pcName = "josh"
   workDir = ".home"
@@ -19,16 +19,11 @@ ignoreErrors = ["error-remote-getjson"]
   titleDelay = 0
   [Params.Tree]
   use = true
-  folderName = "projects"
+  folderName = "tracert"
   files = [ 
-    ["bebop", "https://github.com/joshhighet/bebop"],
-    ["urlgen", "https://urlgen.watchdawg.io"],
-    ["transl8", "https://transl8.watchdawg.io"],
-    ["kerchow", "https://github.com/joshhighet/kerchow"],
-    ["multisocks", "https://github.com/joshhighet/multisocks"],
-    ["statuspage", "https://s.dotco.nz"],
-    ["ransomwatch", "https://ransomwatch.telemetry.ltd"],
-    ["securitytools", "https://tools.watchdawg.io"]    
+    ["keybase:joshhighet", "https://keybase.io/joshhighet"],
+    ["twitter:joshhighet", "https://twitter.com/joshhighet"],
+    ["whoami.joshhighet.com", "https://whoami.joshhighet.com"]
   ]
 
 [module]
