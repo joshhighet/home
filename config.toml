@@ -20,9 +20,9 @@ ignoreErrors = ["error-remote-getjson"]
   [Params.Tree]
   use = true
   folderName = "tracert"
-  files = [ 
+  files = [
+    ["x:joshhighet", "https://x.com/joshhighet"],
     ["keybase:joshhighet", "https://keybase.io/joshhighet"],
-    ["twitter:joshhighet", "https://twitter.com/joshhighet"],
     ["whoami.joshhighet.com", "https://whoami.joshhighet.com"]
   ]
 
