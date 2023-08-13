@@ -22,8 +22,7 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "tracert"
   files = [
     ["x:joshhighet", "https://x.com/joshhighet"],
-    ["keybase:joshhighet", "https://keybase.io/joshhighet"],
-    ["whoami.joshhighet.com", "https://whoami.joshhighet.com"]
+    ["keybase:joshhighet", "https://keybase.io/joshhighet"]
   ]
 
 [module]
