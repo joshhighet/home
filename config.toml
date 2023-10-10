@@ -5,14 +5,14 @@ title = 'josh 🪿'
 ignoreErrors = ["error-remote-getjson"]
 
 [Params]
-  description = "you've found me on the internet..."
+  description = "hello, i am josh from the internet."
   [Params.Terminal]
   scheme = "Gruvbox"
   userName = "web"
   pcName = "josh"
   workDir = ".home"
   profile = ".profile"
-  description = "/description.md"
+  description = "/desc.md"
   ps1Delay = 0
   stdoutDelay = 0
   commandDelay = 30
