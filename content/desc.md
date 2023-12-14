@@ -3,13 +3,16 @@ hi - i'm [josh](http://github.com/joshhighet), a security researcher based in ðŸ
 
 some of my published work can be found below;
 
-- [statuspage](https://s.dotco.nz) - _the underground statuspage_
 - [ransomwatch](https://ransomwatch.telemetry.ltd) - _the open ransomware claim tracker_
-- [urlgen](https://urlgen.watchdawg.io) - _a search engine overlay to expedite investigations_
-- [bebop](https://github.com/joshhighet/bebop) - _a discovery framework for de-anonymising hidden services_
+- [transl8](https://transl8.watchdawg.io) - _a syntax translator and query generator for network engines_
+- [bebop](https://github.com/joshhighet/bebop) - _revealing infrastructure hiding through Tor and reverse proxies._
+
 - [multisocks](https://github.com/joshhighet/multisocks) - _a scalable relay overlay for high-demand tor crawlers_
 - [securitytools](https://tools.watchdawg.io) - _a curated set of projects for security investigators_
-- [transl8](https://transl8.watchdawg.io) - _a syntax translator and query generator for network engines_
+- [kerchow](https://github.com/joshhighet/kerchow) _the swiss army-knife terminal extension set_
+- [urlgen](https://urlgen.watchdawg.io) - _a search engine overlay to expedite investigations_
+- [honeypots](https://github.com/joshhighet/honeypots) _a handful of frontends to commonly abused services, ready to instrument_
+- [statuspage](https://s.dotco.nz) - _the underground statuspage_
 
 ###### bot tarpits: [honey.watchdawg.io](http://honey.watchdawg.io) ~ [cybe.rdyne.systems](https://cybe.rdyne.systems) ~ [ll[...\]]ll.com](https://llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll.com)
 
