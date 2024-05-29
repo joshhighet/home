@@ -1,12 +1,16 @@
-Hello, I'm Josh from New Zealand. Most of my public projects can be found below:
+hi, i'm josh
+
+i like to build and break things on the internet.
+
+some of my public work can be found below;
 
 - [ransomwatch](https://ransomwatch.telemetry.ltd) - _the open ransomware claim tracker_
-- [transl8](https://transl8.watchdawg.io) - _a query builder for searching across Censys, Shodan and 10 others_
-- [bebop](https://github.com/joshhighet/bebop) - _a framework for de-anonymising Tor and reverse proxy hosts._
-- [multisocks](https://github.com/joshhighet/multisocks) - _a scaling relay overlay for tor connectivity_
-- [securitytools](https://tools.watchdawg.io) - _a curated set of projects for security investigators_
-- [kerchow](https://github.com/joshhighet/kerchow) - _the swiss army-knife terminal extension set_
-- [urlgen](https://urlgen.watchdawg.io) - _a search engine overlay to expedite OSINT investigations_
+- [transl8](https://transl8.watchdawg.io) - _a x-platform query DSL for network search engines_
+- [bebop](https://github.com/joshhighet/bebop) - _a framework for de-anonymising Tor and reverse proxy hosts_
+- [multisocks](https://github.com/joshhighet/multisocks) - _a scaling relay overlay for tor traffic balancing_
+- [securitytools](https://tools.watchdawg.io) - _a curated set of projects for security investigations_
+- [kerchow](https://github.com/joshhighet/kerchow) - _my swiss army-knife terminal extension binfile collection_
+- [urlgen](https://urlgen.watchdawg.io) - _a search engine overlay for OSINT investigators_
 - [honeypots](https://github.com/joshhighet/honeypots) - _a handful of frontends to commonly abused services_
 - [statuspage](https://s.dotco.nz) - _the underground statuspage_
 
