@@ -6,6 +6,7 @@ some of my public work can be found below;
 
 - [ransomwatch](https://ransomwatch.telemetry.ltd) - _the open ransomware claim tracker_
 - [transl8](https://transl8.watchdawg.io) - _a x-platform query DSL for network search engines_
+- [isolator](https://github.com/joshhighet/isolator) - _remote browser isolation for Tor sessions_
 - [bebop](https://github.com/joshhighet/bebop) - _a framework for de-anonymising Tor and reverse proxy hosts_
 - [multisocks](https://github.com/joshhighet/multisocks) - _a scaling relay overlay for tor traffic balancing_
 - [securitytools](https://tools.watchdawg.io) - _a curated set of projects for security investigations_
