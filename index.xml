@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>josh 🪿</title><link>http://joshhighet.com/</link><description>Recent content on josh 🪿</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://joshhighet.com/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://joshhighet.com/desc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://joshhighet.com/desc/</guid><description>hi, i&amp;rsquo;m josh
-i like to build and break things on the internet.
-some of my public work can be found below;
-ransomwatch - the open ransomware claim tracker transl8 - a x-platform query DSL for network search engines bebop - a framework for de-anonymising Tor and reverse proxy hosts multisocks - a scaling relay overlay for tor traffic balancing securitytools - a curated set of projects for security investigations kerchow - my swiss army-knife terminal extension binfile collection urlgen - a search engine overlay for OSINT investigators honeypots - a handful of frontends to commonly abused services statuspage - the underground statuspage you can find me on x &amp;amp; github or by mailing josh@atdotcomdotcomdot.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>josh 🪿</title><link>http://joshhighet.com/</link><description>Recent content on josh 🪿</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://joshhighet.com/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://joshhighet.com/desc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://joshhighet.com/desc/</guid><description>&lt;p&gt;hi, i&amp;rsquo;m josh&lt;/p&gt;
+&lt;p&gt;i like to build and break things on the internet.&lt;/p&gt;
+&lt;p&gt;some of my public work can be found below;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ransomwatch.telemetry.ltd"&gt;ransomwatch&lt;/a&gt; - &lt;em&gt;the open ransomware claim tracker&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://transl8.watchdawg.io"&gt;transl8&lt;/a&gt; - &lt;em&gt;a x-platform query DSL for network search engines&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/joshhighet/isolator"&gt;isolator&lt;/a&gt; - &lt;em&gt;remote browser isolation for Tor sessions&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/joshhighet/bebop"&gt;bebop&lt;/a&gt; - &lt;em&gt;a framework for de-anonymising Tor and reverse proxy hosts&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/joshhighet/multisocks"&gt;multisocks&lt;/a&gt; - &lt;em&gt;a scaling relay overlay for tor traffic balancing&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tools.watchdawg.io"&gt;securitytools&lt;/a&gt; - &lt;em&gt;a curated set of projects for security investigations&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/joshhighet/kerchow"&gt;kerchow&lt;/a&gt; - &lt;em&gt;my swiss army-knife terminal extension binfile collection&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://urlgen.watchdawg.io"&gt;urlgen&lt;/a&gt; - &lt;em&gt;a search engine overlay for OSINT investigators&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/joshhighet/honeypots"&gt;honeypots&lt;/a&gt; - &lt;em&gt;a handful of frontends to commonly abused services&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://s.dotco.nz"&gt;statuspage&lt;/a&gt; - &lt;em&gt;the underground statuspage&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;you can find me on &lt;a href="http://twitter.com/joshhighet"&gt;x&lt;/a&gt; &amp;amp; &lt;a href="http://github.com/joshhighet"&gt;github&lt;/a&gt; or by mailing &lt;a href="mailto:josh@atdotcomdotcomdot.com?subject=webmsg:"&gt;josh@atdotcomdotcomdot.com&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
