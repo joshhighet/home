@@ -1,0 +1,95 @@
+*{margin:0;padding:0;box-sizing:border-box}
+
+@font-face{
+  font-family:'JB Mono';
+  src:url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@2.304/fonts/webfonts/JetBrainsMono-Regular.woff2') format('woff2');
+  font-weight:400;
+  font-display:swap;
+}
+@font-face{
+  font-family:'JB Mono';
+  src:url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@2.304/fonts/webfonts/JetBrainsMono-Bold.woff2') format('woff2');
+  font-weight:700;
+  font-display:swap;
+}
+
+:root{
+  --bg:#0c0c0c;
+  --border:#444;
+  --name:#e0e0e0;
+  --pgp:#666;
+  --link:#5f9fd4;
+  --link-hover:#8bbce0;
+}
+
+html,body{
+  height:100%;
+  background:var(--bg);
+  font-family:'JB Mono',monospace;
+  font-size:15px;
+}
+
+main{
+  min-height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.card{
+  border:1px solid var(--border);
+  min-width:320px;
+}
+
+.card-header{
+  display:flex;
+  flex-direction:column;
+  gap:2px;
+  padding:16px 20px;
+}
+
+.name{
+  color:var(--name);
+  font-weight:700;
+}
+
+.meta{
+  color:var(--pgp);
+  font-size:13px;
+}
+
+.meta a{
+  color:var(--pgp);
+  text-decoration:none;
+}
+
+.meta a:hover{
+  color:var(--link-hover);
+}
+
+.card-body{
+  display:flex;
+  flex-direction:column;
+  gap:4px;
+  padding:16px 20px;
+  border-top:1px solid var(--border);
+}
+
+.card-body a{
+  color:var(--link);
+  text-decoration:none;
+  line-height:1.6;
+}
+
+.card-body a:hover{
+  color:var(--link-hover);
+}
+
+.card-body a.spaced{
+  margin-top:12px;
+}
+
+@media(max-width:400px){
+  html{font-size:13px}
+  .card{min-width:0;margin:0 16px}
+}

@@ -1,34 +1,32 @@
-name: gh pages build
+name: deploy
 
 on:
   push:
     branches:
       - main
-  pull_request:
+
+permissions:
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v2
-        with:
-          submodules: true
-          fetch-depth: 0
+      - uses: actions/checkout@v4
 
-      - name: setup
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.150.1'
-          extended: true
+      - uses: actions/configure-pages@v5
 
-      - name: build
-        run: hugo --minify
-
-      - name: deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
+      - uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          cname: joshhighet.com
+          path: .
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
